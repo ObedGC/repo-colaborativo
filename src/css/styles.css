@@ -3,3 +3,7 @@
     text-align: center;
     font-size: medium;
 }
+footer > p{
+    font-size: large;
+    color: black;
+}
